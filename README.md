@@ -1,6 +1,6 @@
 ### Hi there 👋, Michael John Jacob
-#### I am studying JavaScript and React
-I'm Michael from Poland. I started my journey with creating Websites some time ago. At now I study React and improve my skils in Vanilla JavaScript.
+#### I am studying JavaScript/TypeScript and React/Angular.
+I'm Michael from Poland. I started my journey with creating Websites some time ago. At now I study React/Angular and improve my skils in Vanilla JavaScript/TypeScript.
 
 ## Skills
 * Angular / React
