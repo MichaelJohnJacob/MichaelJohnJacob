@@ -4,7 +4,7 @@
 
 *   🌍  I'm based in Pabianice, Poland
 *   🖥️  See my portfolio at [soon]
-*   🧠  I'm learning Front-end (Angular) and starting learning basics od C#.
+*   🧠  I'm learning Front-end (Angular) and starting learn basics od C#.
 *   🌱  I’m currently learning **Angular** and **C#**.
 
 <h3 align="left">Frontend:</h3>
