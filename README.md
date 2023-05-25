@@ -1,5 +1,5 @@
 <h1 align="left">Hi , I'm Michael!</h1>
-<h3 align="left">Beginner developer who has been learning JavaScript for 2 months. I has been learning C# for weeks.</h3>
+<h3 align="left">Beginner developer who has been learning JavaScript for 5 months. I has been learning C# for weeks.</h3>
 
 
 *   🌍  I'm based in Pabianice, Poland
